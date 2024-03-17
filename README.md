@@ -6,7 +6,7 @@ Welcome to the Weather App! This tool provides you with up-to-date weather infor
 
 **How to use**
 
-+**Enter City Name:** Start by typing the name of the city you want to check the weather for in the provided text input field.
++ **Enter City Name:** Start by typing the name of the city you want to check the weather for in the provided text input field.
 +**Get Weather:** Click the "Get Weather" button to retrieve the weather information for the entered city.
 +**View Weather:** Once the weather information is fetched, you will see details such as temperature, description, humidity, and wind speed for the specified city.
 
