@@ -20,8 +20,9 @@ Welcome to the Weather App! This tool provides you with up-to-date weather infor
 
 If you encounter any issues or have questions regarding the Weather App, please don't hesitate to reach out to me for assistance.
 
+Thank you for using my Weather App! I hope it helps you stay informed about the weather conditions in your area.
+
 https://weather-api.streamlit.app/
 
-Thank you for using my Weather App! I hope it helps you stay informed about the weather conditions in your area.
 
 
